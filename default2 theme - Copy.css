@@ -1,0 +1,37 @@
+/****Start Default theme ****/
+
+		/*active link*/	
+.navbar-inverse .navbar-nav > .active > a, 
+.navbar-inverse .navbar-nav > .active > a:hover, 
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active,
+.option-box .gear-check 
+{
+	background-color:#337ab7;
+}
+.testimonials span,
+.footer h3,
+.footer span
+{
+	color:#337ab7;
+}
+.option-box .color-option,
+.testimonials .carousel-indicators li.active
+{
+	border:3px solid #337ab7;
+}
+		/* dropdown-menu */
+.dropdown-menu 
+{
+	border-top:3px solid #337ab7;
+}
+/****End Default theme ****/
+#myslide .sideNavigator .row1 .h1,
+#myslide .container .inside h1,
+.statistics h2,
+.our_team h2
+{
+	color:#337ab7;
+}
