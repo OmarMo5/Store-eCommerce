@@ -1,2 +1,2 @@
-# Tourism and Travel website
-Responsive design for Tourism And Travel.
+# Store-eCommerce website
+Responsive design for Store-eCommerce.
